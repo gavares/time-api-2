@@ -14,6 +14,6 @@ public class TimeController {
     @CrossOrigin()
     @RequestMapping("/time")
     public Time time() {
-        return new Time();
+        return new null;
     }
 }
