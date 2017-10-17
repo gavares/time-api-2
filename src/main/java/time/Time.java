@@ -15,6 +15,7 @@ public class Time {
     }
 
     public String getTime() {
-        return time;
+    //        return time;
+        return null; // will fail
     }
 }
